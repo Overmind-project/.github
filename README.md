@@ -1,3 +1,2 @@
 # .github
-# Olá mundo
-# edite esse arquivo em repositorios/.github/README.md
+### edite esse arquivo em repositorios/.github/README.md
